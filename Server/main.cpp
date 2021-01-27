@@ -13,6 +13,7 @@ void ShowErrorMessage(string message)
 
 int main()
 {
+	cout<<"¾Ó ±è¿ÀÂî\n"
 	WSADATA wsaData;
 	SOCKET serverSocket, clientSocket;
 	SOCKADDR_IN serverAddress, clientAddress;
